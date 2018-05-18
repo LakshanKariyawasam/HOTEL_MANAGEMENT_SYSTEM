@@ -1,0 +1,471 @@
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_invoice.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_login.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_Mainwindow.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_rc_table.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_settle.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_stock.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewitem.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_item_category.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_item.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_damage.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_deduct_stock.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_view_invoice.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_customer.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_customer.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_customer.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account_details.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_expences.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_expencess.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account_details.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewitem.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_customer.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_damage.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_expencess.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_customer.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_item.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_expences.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_invoice.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_items_select.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_item_category.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_login.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_Mainwindow.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_rc_table.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_deduct_stock.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_customer.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_settle.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_stock.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_view_invoice.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewuser.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_table.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_tbl.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_user.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_manage.resources
+D:\My CCE Class Works\NIBM\Restaurant Management System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_tbl_add_ctgry.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account_details.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewitem.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewuser.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_customer.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_damage.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_expencess.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_table.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_customer.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_item.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_tbl.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_user.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_expences.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_invoice.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_items_select.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_item_category.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_login.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_Mainwindow.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_manage.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_rc_table.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_deduct_stock.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_customer.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_settle.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_stock.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_tbl_add_ctgry.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_view_invoice.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Original resturant mnge\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_splash.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account_details.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewitem.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewuser.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_customer.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_damage.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_expencess.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_table.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_customer.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_item.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_tbl.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_user.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_expences.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_invoice.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_items_select.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_item_category.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_login.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_Mainwindow.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_manage.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_rc_table.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_deduct_stock.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_customer.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_settle.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_splash.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_stock.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_tbl_add_ctgry.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_view_invoice.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\Ash_Rulz\Desktop\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account_details.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewitem.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewuser.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_customer.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_damage.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_expencess.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_table.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_customer.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_item.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_tbl.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_user.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_expences.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_invoice.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_items_select.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_item_category.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_login.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_Mainwindow.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_manage.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_rc_table.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_deduct_stock.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_customer.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_settle.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_splash.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_stock.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_tbl_add_ctgry.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_view_invoice.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+D:\Original resturant mnge - Edited splash\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account_details.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewitem.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewuser.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_customer.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_damage.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_expencess.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_table.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_customer.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_item.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_tbl.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_user.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_expences.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_invoice.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_items_select.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_item_category.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_login.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_Mainwindow.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_manage.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_rc_table.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_deduct_stock.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_customer.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_settle.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_splash.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_stock.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_tbl_add_ctgry.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_view_invoice.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\bin\Debug\MetroFramework.dll
+C:\Users\Ash_Rulz\Desktop\The Invisible\Restaurant Management System\Restaurant Management System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account_details.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewitem.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewuser.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_customer.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_damage.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_expencess.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_table.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_customer.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_item.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_tbl.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_user.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_expences.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_invoice.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_items_select.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_item_category.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_login.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_Mainwindow.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_manage.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_rc_table.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_deduct_stock.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_customer.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_settle.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_splash.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_stock.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_tbl_add_ctgry.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_view_invoice.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\bin\Debug\MetroFramework.dll
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account_details.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewitem.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewuser.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_customer.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_damage.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_expencess.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_table.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_customer.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_item.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_tbl.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_user.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_expences.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_invoice.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_items_select.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_item_category.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_login.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_Mainwindow.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_manage.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_rc_table.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_deduct_stock.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_customer.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_settle.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_splash.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_stock.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_tbl_add_ctgry.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_view_invoice.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\bin\Debug\Restaurant Management System.exe.manifest
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\bin\Debug\Restaurant Management System.application
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\bin\Debug\MetroFramework.dll
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account_details.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewitem.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewuser.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_customer.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_damage.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_expencess.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_table.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_customer.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_item.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_tbl.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_user.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_expences.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_invoice.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_items_select.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_item_category.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_login.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_Mainwindow.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_manage.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_rc_table.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_deduct_stock.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_customer.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_settle.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_splash.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_stock.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_tbl_add_ctgry.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_view_invoice.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant Management System.exe.manifest
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sat\Restaurant Management System\obj\Debug\Restaurant Management System.application
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\bin\Debug\Restaurant Management System.exe.manifest
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\bin\Debug\Restaurant Management System.application
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\bin\Debug\MetroFramework.dll
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account_details.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewitem.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewuser.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_customer.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_damage.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_expencess.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_table.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_customer.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_item.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_tbl.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_user.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_expences.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_invoice.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_items_select.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_item_category.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_login.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_Mainwindow.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_manage.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_rc_table.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_deduct_stock.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_customer.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_settle.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_splash.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_stock.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_tbl_add_ctgry.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_view_invoice.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant Management System.exe.manifest
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant Management System.application
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_report.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\RdlCompile.cache
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\RdlCompile.compiled
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_about.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\Restaurant Management System.exe.manifest
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\Restaurant Management System.application
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\MetroFramework.dll
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_about.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account_details.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewitem.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewuser.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_customer.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_damage.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_expencess.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_table.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_customer.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_item.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_tbl.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_user.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_expences.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_invoice.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_items_select.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_item_category.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_login.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_Mainwindow.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_manage.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_rc_table.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_deduct_stock.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_customer.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_report.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_settle.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_splash.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_stock.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_tbl_add_ctgry.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_view_invoice.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\RdlCompile.cache
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\RdlCompile.compiled
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant Management System.exe.manifest
+C:\Users\Ash_Rulz\Desktop\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant Management System.application
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\Restaurant Management System.exe.manifest
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\Restaurant Management System.application
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\MetroFramework.dll
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_about.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_account_details.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewitem.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_addnewuser.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_customer.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_damage.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_expencess.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_add_table.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_customer.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_item.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_tbl.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_edit_user.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_expences.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_invoice.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_items_select.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_item_category.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_login.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_Mainwindow.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_manage.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_rc_table.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_deduct_stock.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_customer.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_report.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_settle.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_splash.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_stock.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_tbl_add_ctgry.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.frm_view_invoice.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant Management System.exe.manifest
+C:\Users\Rasika Lakshan\Desktop\New folder\Restaurant Management System_sun_edited\Restaurant Management System\obj\Debug\Restaurant Management System.application
